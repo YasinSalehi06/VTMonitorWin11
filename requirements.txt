@@ -1,3 +1,7 @@
+pystray
+Pillow
 requests
 watchdog
 plyer
+pyperclip
+pyzipper
