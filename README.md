@@ -7,7 +7,7 @@
 </p>
 
 # **VirusTotal Background Scanner**
-A small Python script that runs in the background and automatically checks new files with VirusTotal.
+A small Python script that runs in the background and automatically checks new downloaded files using VirusTotal.
 
 ## **Usage**
 **Open the dashboard using the tray icon**
