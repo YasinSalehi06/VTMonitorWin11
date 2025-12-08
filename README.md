@@ -17,6 +17,11 @@ Make sure Python 3.x is installed.
 ### **2. Get Your VirusTotal API Key**
 Get your key here:
 [https://www.virustotal.com/gui/my-apikey](https://www.virustotal.com/gui/my-apikey)
+```python
+API_KEY = "YOUR_VIRUSTOTAL_API_KEY"
+```
+Replace `"YOUR_VIRUSTOTAL_API_KEY"` with your actual API key (keep the quotes).
+
 
 ### **3. Download the Files**
 Download:
