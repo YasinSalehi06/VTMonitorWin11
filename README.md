@@ -1,6 +1,7 @@
-<img width="626" height="726" alt="image" src="https://github.com/user-attachments/assets/a588ebb7-5703-42b0-bd47-a07dd564c013" /> <img width="618" height="665" alt="image" src="https://github.com/user-attachments/assets/fd7ba647-441c-4240-8d21-a0eb614e875f" />
-
-
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/a588ebb7-5703-42b0-bd47-a07dd564c013" width="45%" />
+  <img src="https://github.com/user-attachments/assets/fd7ba647-441c-4240-8d21-a0eb614e875f" width="45%" />
+</p>
 
 # **VirusTotal Background Scanner**
 A small Python script that runs in the background and automatically checks new files with VirusTotal.
