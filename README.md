@@ -6,7 +6,9 @@
 # **VirusTotal Background Scanner**
 A small Python script that runs in the background and automatically checks new files with VirusTotal.
 
-**open the dashboard using the tray icon**
+## **Usage**
+**Open the dashboard using the tray icon**
+**Double click the file name texts in the list to open its VirusTotal results page and any other text or info to copy it**
 
 ## **Setup**
 ### **1. Install Python**
