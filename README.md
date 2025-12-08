@@ -1,7 +1,5 @@
-### **Uses no resources while idle, just a tiny spike of CPU while scanning and totally FREE**
+### **totally FREE and uses ZERO resources while idle, just a tiny spike of CPU while scanning**
 ## VirusTotal Scan: https://www.virustotal.com/gui/file/c093519cabeb9d3cff93d94013fc26daf9fca3696249f83bcdd0bdaa3373300a 
-
-
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/a588ebb7-5703-42b0-bd47-a07dd564c013" width="35%" />
