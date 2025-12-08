@@ -1,6 +1,6 @@
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/a588ebb7-5703-42b0-bd47-a07dd564c013" width="45%" />
-  <img src="https://github.com/user-attachments/assets/fd7ba647-441c-4240-8d21-a0eb614e875f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a588ebb7-5703-42b0-bd47-a07dd564c013" width="35%" />
+  <img src="https://github.com/user-attachments/assets/fd7ba647-441c-4240-8d21-a0eb614e875f" width="40%" />
 </p>
 
 # **VirusTotal Background Scanner**
@@ -14,7 +14,7 @@ A small Python script that runs in the background and automatically checks new f
 ### **1. Install Python**
 Make sure Python 3.x is installed.
 
-### **2. Get Your VirusTotal API Key**
+### **2. Get Your FREE or paid VirusTotal API Key**
 Get your key here:
 [https://www.virustotal.com/gui/my-apikey](https://www.virustotal.com/gui/my-apikey)
 ```python
