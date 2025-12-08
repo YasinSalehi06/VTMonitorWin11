@@ -1,3 +1,5 @@
+## **Uses no resources while idle, just a tiny spike of CPU while scanning and totally FREE**
+
 <p float="left">
   <img src="https://github.com/user-attachments/assets/a588ebb7-5703-42b0-bd47-a07dd564c013" width="35%" />
   <img src="https://github.com/user-attachments/assets/fd7ba647-441c-4240-8d21-a0eb614e875f" width="40%" />
