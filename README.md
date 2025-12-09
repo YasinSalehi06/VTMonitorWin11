@@ -2,7 +2,8 @@
 
 
 ### The program was packaged with PyInstaller, which often triggers false positives, so the VirusTotal results below are not an actual threat. There’s nothing to worry about, the exe was generated directly from the project using PyInstaller, and the full Python code is included in the repo, so you can review it yourself and confirm that there’s nothing malicious.
-### VirusTotal Scan: [https://www.virustotal.com/gui/file/c093519cabeb9d3cff93d94013fc26daf9fca3696249f83bcdd0bdaa3373300a](https://www.virustotal.com/gui/file/da28188046d5bc901e3f77430c539baeaebeb1f1f723c031028cbf15b29f54a7)
+### .pyw file VirusTotal Scan: https://www.virustotal.com/gui/file/9d4b0e6d88331c6a0891047a4e22a5b0e577912fd1ad42e45add77ccb398bf82
+### .exe file VirusTotal Scan: https://www.virustotal.com/gui/file/158fa338e1b6022457699fdc74879fb3ec949a8961ddedb75e555ce5a5abbe38
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/a588ebb7-5703-42b0-bd47-a07dd564c013" width="35%" />
@@ -15,17 +16,17 @@ A small Python script that runs in the background and automatically checks new d
 ## **Usage**
 **Open the dashboard using the tray icon**
 
-**Double click the file name texts in the dashboard list to open its VirusTotal results page. You can also double click any other text or info to copy it, or just right click to access these options and more.**
+**Right click the tray icon or any text in the dashboard to access additional options. You can also left double click on the texts for quick actions.**
 
 ## **Setup**
 Install the EXE, save it wherever you prefer, and run it.
 
 ## **How It Works**
 Once running, the script stays in the background and:
-* Watches for newly created or modified files inside /Downloads folder
-* Sends file hashes (or files) to VirusTotal
-* Waits for the report and reads the detection count
-* Shows a small Windows notification with the result
-* Updates the dashboard (open the dashboard using the tray icon)
+* Watcher: It sits quietly in your system tray and keeps an eye on your Downloads folder.
+* Instant Check: When a new file arrives, it immediately checks its digital fingerprint (hash) against VirusTotal.
+* Save Your Credits: To prevent hitting API limits, files with unknown hashes inside folders aren't uploaded automatically. You choose exactly what to scan by clicking [ Analyze ].
+* Privacy Mode: You can enable Hash-Only Mode to block all uploads of unknown hashes. This ensures the tool only checks for existing results and never sends your files to the cloud.
+* Real-Time Alerts: You get a desktop notification the moment a scan is finished or a threat is detected.
 
 It basically handles the VirusTotal checking for you, automatically, without getting in the way.
