@@ -14,9 +14,8 @@
 A small Python script that runs in the background and automatically checks new downloaded files using VirusTotal.
 
 ## **Usage**
-**Open the dashboard using the tray icon**
-
-**Right click the tray icon or any text in the dashboard to access additional options. You can also left double click on the texts for quick actions.**
+##**Open the dashboard using the tray icon**
+## **Right click the tray icon or any text in the dashboard to access additional options. You can also left double click on the texts for quick actions.**
 
 ## **Setup**
 Install the EXE, save it wherever you prefer, and run it.
@@ -28,5 +27,6 @@ Once running, the script stays in the background and:
 * Save Your Credits: To prevent hitting API limits, files with unknown hashes inside folders aren't uploaded automatically. You choose exactly what to scan by clicking [ Analyze ].
 * Privacy Mode: You can enable Hash-Only Mode to block all uploads of unknown hashes. This ensures the tool only checks for existing results and never sends your files to the cloud.
 * Real-Time Alerts: You get a desktop notification the moment a scan is finished or a threat is detected.
+* Always Ready: You can toggle Run on Startup so you don't have to launch it manually every time (right click on the tray icon).
 
 It basically handles the VirusTotal checking for you, automatically, without getting in the way.
