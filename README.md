@@ -15,7 +15,7 @@ A small Python script that runs in the background and automatically checks new d
 
 ## **Usage**
 ## **Open the dashboard using the tray icon**
-## **Right click the tray icon or any text in the dashboard to access additional options. You can also left double click on the texts for quick actions.**
+## **Right click the tray icon or any text in the dashboard to access additional options. You can also left double click on the texts in the dashboard for quick actions.**
 
 ## **Setup**
 Install the EXE, save it wherever you prefer, and run it.
