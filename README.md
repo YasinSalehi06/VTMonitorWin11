@@ -1,7 +1,7 @@
 ## **totally FREE and uses ZERO resources while idle, just a tiny spike of CPU while scanning**
 
 
-### The program was packaged with PyInstaller, which often triggers false positives, so the VirusTotal results below are not an actual threat. There’s nothing to worry about, the exe was generated directly from the project using PyInstaller, and the full Python source code is included, so you can review it yourself and confirm that there’s nothing malicious.
+### The program was packaged with PyInstaller, which often triggers false positives, so the VirusTotal results below are not an actual threat. There’s nothing to worry about, the exe was generated directly from the project using PyInstaller, and the full Python code is included in the repo, so you can review it yourself and confirm that there’s nothing malicious.
 ### VirusTotal Scan: [https://www.virustotal.com/gui/file/c093519cabeb9d3cff93d94013fc26daf9fca3696249f83bcdd0bdaa3373300a](https://www.virustotal.com/gui/file/da28188046d5bc901e3f77430c539baeaebeb1f1f723c031028cbf15b29f54a7)
 
 <p float="left">
